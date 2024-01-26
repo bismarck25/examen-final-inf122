@@ -1,0 +1,57 @@
+
+.fondo {
+  font-size: 18px;
+  background-color: #F5F7FB;
+}
+
+.body{
+    background-color: white;
+}
+.id{
+    color: #7480B2;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.nombre{
+    text-transform:capitalize;
+    color: #26367C;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+.pokemon{
+    
+    font-weight: 600;
+    background-color: #F5F7FB;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: baseline;
+    color: #393939;
+    font-style: normal;
+    
+}
+.h2{
+    text-align: center;
+}
+.datos{
+    font-weight: 600;
+    background-color: #F5F7FB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    color: #393939;
+}
+.contenedor img{
+    width: 325px;
+    height: 325px;
+    flex-shrink: 0;
+    
+}
