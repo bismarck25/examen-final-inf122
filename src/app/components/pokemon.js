@@ -54,15 +54,15 @@ function pokemon (){
             </div>
             <div className={style.datos}>
                 <h1> About</h1>
-                <h2>{tipo}</h2>
-                <h2>{altura}</h2>
-                <h2>{peso}</h2>
-                <h2>{habilidad}</h2>
+                <h2>Type:{tipo}</h2>
+                <h2>Height:{altura}</h2>
+                <h2>Weight:{peso}</h2>
+                <h2>Abilities:{habilidad}</h2>
                 <h3>Stats</h3>
-                <h4>{hp}</h4>
-                <h4>{ataque}</h4>
-                <h4>{defensa}</h4>
-                <h4>{velocidad}</h4>
+                <h4>HP:{hp}</h4>
+                <h4>Attack{ataque}</h4>
+                <h4>Defense:{defensa}</h4>
+                <h4>Speed:{velocidad}</h4>
 
             </div>
             
