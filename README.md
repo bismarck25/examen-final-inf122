@@ -17,6 +17,7 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 | id del Pokemon |
 |----------------|
 |  `<id de pokemon asignado> `|
+Asignacion de pokemon N°90
 
 #### Documentación de la API de Pokemon:
 `GET https://pokeapi.co/api/v2/pokemon/{id o nombre de pokemon}`
